@@ -1,1 +1,1 @@
-web: gunicorn testpydash.wsgi --log-file -
+web: gunicorn discord.wsgi --log-file -
