@@ -1,1 +1,1 @@
-web: gunicorn discord_wsgi.py --log-file -
+web: gunicorn safe-reaches-67340.wsgi --log-file -
